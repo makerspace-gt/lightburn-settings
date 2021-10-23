@@ -18,7 +18,8 @@
                 <endDelay Value="0"/>
                 <throughPower Value="0"/>
                 <throughPower2 Value="0"/>
-                <enableCutThrough Value="0"/>
+                <enableCutThroughStart Value="0"/>
+                <enableCutThroughEnd Value="0"/>
                 <priority Value="0"/>
                 <frequency Value="20000"/>
                 <overrideFrequency Value="0"/>
@@ -27,10 +28,13 @@
                 <doOutput Value="1"/>
                 <hide Value="0"/>
                 <runBlower Value="1"/>
+                <autoBlower Value="0"/>
                 <blowerSpeedOverride Value="0"/>
                 <blowerSpeedPercent Value="100"/>
                 <overcut Value="0"/>
                 <rampLength Value="0"/>
+                <rampOuter Value="0"/>
+                <forceConstantPower Value="0"/>
                 <numPasses Value="1"/>
                 <zPerPass Value="0"/>
                 <perforate Value="0"/>
@@ -39,6 +43,17 @@
                 <dotMode Value="0"/>
                 <dotTime Value="1"/>
                 <dotSpacing Value="0.1"/>
+                <tabsEnabled Value="0"/>
+                <manualTabs Value="1"/>
+                <tabSize Value="0.5"/>
+                <tabCount Value="-1"/>
+                <tabCountMax Value="-1"/>
+                <limitMaxTabs Value="0"/>
+                <tabSpacing Value="50"/>
+                <skipInnerTabs Value="0"/>
+                <tabsUseSpacing Value="1"/>
+                <tabCutPower Value="0"/>
+                <usePen Value="0"/>
                 <scanOpt Value="mergeAll"/>
                 <bidir Value="1"/>
                 <crossHatch Value="0"/>
@@ -47,6 +62,8 @@
                 <floodFill Value="0"/>
                 <interval Value="0.1"/>
                 <angle Value="0"/>
+                <cellsPerInch Value="50"/>
+                <halftoneAngle Value="22.5"/>
             </CutSetting>
         </Entry>
     </Material>
@@ -68,7 +85,8 @@
                 <endDelay Value="0"/>
                 <throughPower Value="0"/>
                 <throughPower2 Value="0"/>
-                <enableCutThrough Value="0"/>
+                <enableCutThroughStart Value="0"/>
+                <enableCutThroughEnd Value="0"/>
                 <priority Value="0"/>
                 <frequency Value="20000"/>
                 <overrideFrequency Value="0"/>
@@ -77,10 +95,13 @@
                 <doOutput Value="1"/>
                 <hide Value="0"/>
                 <runBlower Value="1"/>
+                <autoBlower Value="0"/>
                 <blowerSpeedOverride Value="0"/>
                 <blowerSpeedPercent Value="100"/>
                 <overcut Value="0"/>
                 <rampLength Value="0"/>
+                <rampOuter Value="0"/>
+                <forceConstantPower Value="0"/>
                 <numPasses Value="1"/>
                 <zPerPass Value="0"/>
                 <perforate Value="0"/>
@@ -89,6 +110,17 @@
                 <dotMode Value="0"/>
                 <dotTime Value="1"/>
                 <dotSpacing Value="0.1"/>
+                <tabsEnabled Value="0"/>
+                <manualTabs Value="1"/>
+                <tabSize Value="0.5"/>
+                <tabCount Value="-1"/>
+                <tabCountMax Value="-1"/>
+                <limitMaxTabs Value="0"/>
+                <tabSpacing Value="50"/>
+                <skipInnerTabs Value="0"/>
+                <tabsUseSpacing Value="1"/>
+                <tabCutPower Value="0"/>
+                <usePen Value="0"/>
                 <scanOpt Value="mergeAll"/>
                 <bidir Value="1"/>
                 <crossHatch Value="0"/>
@@ -97,6 +129,8 @@
                 <floodFill Value="0"/>
                 <interval Value="0.1"/>
                 <angle Value="0"/>
+                <cellsPerInch Value="50"/>
+                <halftoneAngle Value="22.5"/>
             </CutSetting>
         </Entry>
         <Entry Thickness="-1.0000" Desc="Gravieren">
@@ -116,7 +150,8 @@
                 <endDelay Value="0"/>
                 <throughPower Value="0"/>
                 <throughPower2 Value="0"/>
-                <enableCutThrough Value="0"/>
+                <enableCutThroughStart Value="0"/>
+                <enableCutThroughEnd Value="0"/>
                 <priority Value="0"/>
                 <frequency Value="20000"/>
                 <overrideFrequency Value="0"/>
@@ -125,10 +160,13 @@
                 <doOutput Value="1"/>
                 <hide Value="0"/>
                 <runBlower Value="1"/>
+                <autoBlower Value="0"/>
                 <blowerSpeedOverride Value="0"/>
                 <blowerSpeedPercent Value="100"/>
                 <overcut Value="0"/>
                 <rampLength Value="0"/>
+                <rampOuter Value="0"/>
+                <forceConstantPower Value="0"/>
                 <numPasses Value="1"/>
                 <zPerPass Value="0"/>
                 <perforate Value="0"/>
@@ -137,6 +175,17 @@
                 <dotMode Value="0"/>
                 <dotTime Value="1"/>
                 <dotSpacing Value="0.1"/>
+                <tabsEnabled Value="0"/>
+                <manualTabs Value="1"/>
+                <tabSize Value="0.5"/>
+                <tabCount Value="-1"/>
+                <tabCountMax Value="-1"/>
+                <limitMaxTabs Value="0"/>
+                <tabSpacing Value="50"/>
+                <skipInnerTabs Value="0"/>
+                <tabsUseSpacing Value="1"/>
+                <tabCutPower Value="0"/>
+                <usePen Value="0"/>
                 <scanOpt Value="mergeAll"/>
                 <bidir Value="1"/>
                 <crossHatch Value="0"/>
@@ -145,6 +194,8 @@
                 <floodFill Value="0"/>
                 <interval Value="0.1"/>
                 <angle Value="0"/>
+                <cellsPerInch Value="50"/>
+                <halftoneAngle Value="22.5"/>
             </CutSetting>
         </Entry>
         <Entry Thickness="4.0000" Desc="Schneiden">
@@ -164,7 +215,8 @@
                 <endDelay Value="0"/>
                 <throughPower Value="0"/>
                 <throughPower2 Value="0"/>
-                <enableCutThrough Value="0"/>
+                <enableCutThroughStart Value="0"/>
+                <enableCutThroughEnd Value="0"/>
                 <priority Value="0"/>
                 <frequency Value="20000"/>
                 <overrideFrequency Value="0"/>
@@ -173,10 +225,13 @@
                 <doOutput Value="1"/>
                 <hide Value="0"/>
                 <runBlower Value="1"/>
+                <autoBlower Value="0"/>
                 <blowerSpeedOverride Value="0"/>
                 <blowerSpeedPercent Value="100"/>
                 <overcut Value="0"/>
                 <rampLength Value="0"/>
+                <rampOuter Value="0"/>
+                <forceConstantPower Value="0"/>
                 <numPasses Value="5"/>
                 <zPerPass Value="0"/>
                 <perforate Value="0"/>
@@ -185,6 +240,17 @@
                 <dotMode Value="0"/>
                 <dotTime Value="1"/>
                 <dotSpacing Value="0.1"/>
+                <tabsEnabled Value="0"/>
+                <manualTabs Value="1"/>
+                <tabSize Value="0.5"/>
+                <tabCount Value="-1"/>
+                <tabCountMax Value="-1"/>
+                <limitMaxTabs Value="0"/>
+                <tabSpacing Value="50"/>
+                <skipInnerTabs Value="0"/>
+                <tabsUseSpacing Value="1"/>
+                <tabCutPower Value="0"/>
+                <usePen Value="0"/>
                 <scanOpt Value="mergeAll"/>
                 <bidir Value="1"/>
                 <crossHatch Value="0"/>
@@ -193,6 +259,8 @@
                 <floodFill Value="0"/>
                 <interval Value="0.1"/>
                 <angle Value="0"/>
+                <cellsPerInch Value="50"/>
+                <halftoneAngle Value="22.5"/>
             </CutSetting>
         </Entry>
     </Material>
@@ -214,7 +282,8 @@
                 <endDelay Value="0"/>
                 <throughPower Value="0"/>
                 <throughPower2 Value="0"/>
-                <enableCutThrough Value="0"/>
+                <enableCutThroughStart Value="0"/>
+                <enableCutThroughEnd Value="0"/>
                 <priority Value="0"/>
                 <frequency Value="20000"/>
                 <overrideFrequency Value="0"/>
@@ -223,10 +292,13 @@
                 <doOutput Value="1"/>
                 <hide Value="0"/>
                 <runBlower Value="1"/>
+                <autoBlower Value="0"/>
                 <blowerSpeedOverride Value="0"/>
                 <blowerSpeedPercent Value="100"/>
                 <overcut Value="0"/>
                 <rampLength Value="0"/>
+                <rampOuter Value="0"/>
+                <forceConstantPower Value="0"/>
                 <numPasses Value="1"/>
                 <zPerPass Value="0"/>
                 <perforate Value="0"/>
@@ -235,6 +307,17 @@
                 <dotMode Value="0"/>
                 <dotTime Value="0"/>
                 <dotSpacing Value="0"/>
+                <tabsEnabled Value="0"/>
+                <manualTabs Value="1"/>
+                <tabSize Value="0.5"/>
+                <tabCount Value="-1"/>
+                <tabCountMax Value="-1"/>
+                <limitMaxTabs Value="0"/>
+                <tabSpacing Value="50"/>
+                <skipInnerTabs Value="0"/>
+                <tabsUseSpacing Value="1"/>
+                <tabCutPower Value="0"/>
+                <usePen Value="0"/>
                 <scanOpt Value="mergeAll"/>
                 <bidir Value="1"/>
                 <crossHatch Value="0"/>
@@ -243,6 +326,11 @@
                 <floodFill Value="0"/>
                 <interval Value="0.1"/>
                 <angle Value="0"/>
+                <cellsPerInch Value="50"/>
+                <halftoneAngle Value="22.5"/>
+            </CutSetting>
+        </Entry>
+    </Material>
             </CutSetting>
         </Entry>
     </Material>
@@ -264,7 +352,8 @@
                 <endDelay Value="0"/>
                 <throughPower Value="0"/>
                 <throughPower2 Value="0"/>
-                <enableCutThrough Value="0"/>
+                <enableCutThroughStart Value="0"/>
+                <enableCutThroughEnd Value="0"/>
                 <priority Value="0"/>
                 <frequency Value="20000"/>
                 <overrideFrequency Value="0"/>
@@ -273,10 +362,13 @@
                 <doOutput Value="1"/>
                 <hide Value="0"/>
                 <runBlower Value="1"/>
+                <autoBlower Value="0"/>
                 <blowerSpeedOverride Value="0"/>
                 <blowerSpeedPercent Value="100"/>
                 <overcut Value="0"/>
                 <rampLength Value="0"/>
+                <rampOuter Value="0"/>
+                <forceConstantPower Value="0"/>
                 <numPasses Value="1"/>
                 <zPerPass Value="0"/>
                 <perforate Value="0"/>
@@ -285,6 +377,17 @@
                 <dotMode Value="0"/>
                 <dotTime Value="1"/>
                 <dotSpacing Value="0.1"/>
+                <tabsEnabled Value="0"/>
+                <manualTabs Value="1"/>
+                <tabSize Value="0.5"/>
+                <tabCount Value="-1"/>
+                <tabCountMax Value="-1"/>
+                <limitMaxTabs Value="0"/>
+                <tabSpacing Value="50"/>
+                <skipInnerTabs Value="0"/>
+                <tabsUseSpacing Value="1"/>
+                <tabCutPower Value="0"/>
+                <usePen Value="0"/>
                 <scanOpt Value="mergeAll"/>
                 <bidir Value="1"/>
                 <crossHatch Value="0"/>
@@ -293,6 +396,8 @@
                 <floodFill Value="0"/>
                 <interval Value="0.1"/>
                 <angle Value="0"/>
+                <cellsPerInch Value="50"/>
+                <halftoneAngle Value="22.5"/>
             </CutSetting>
         </Entry>
         <Entry Thickness="1.0000" Desc="Schneiden">
@@ -312,7 +417,8 @@
                 <endDelay Value="0"/>
                 <throughPower Value="0"/>
                 <throughPower2 Value="0"/>
-                <enableCutThrough Value="0"/>
+                <enableCutThroughStart Value="0"/>
+                <enableCutThroughEnd Value="0"/>
                 <priority Value="0"/>
                 <frequency Value="20000"/>
                 <overrideFrequency Value="0"/>
@@ -321,10 +427,13 @@
                 <doOutput Value="0"/>
                 <hide Value="0"/>
                 <runBlower Value="1"/>
+                <autoBlower Value="0"/>
                 <blowerSpeedOverride Value="0"/>
                 <blowerSpeedPercent Value="100"/>
                 <overcut Value="0"/>
                 <rampLength Value="0"/>
+                <rampOuter Value="0"/>
+                <forceConstantPower Value="0"/>
                 <numPasses Value="1"/>
                 <zPerPass Value="0"/>
                 <perforate Value="0"/>
@@ -333,6 +442,17 @@
                 <dotMode Value="0"/>
                 <dotTime Value="1"/>
                 <dotSpacing Value="0.1"/>
+                <tabsEnabled Value="0"/>
+                <manualTabs Value="1"/>
+                <tabSize Value="0.5"/>
+                <tabCount Value="-1"/>
+                <tabCountMax Value="-1"/>
+                <limitMaxTabs Value="0"/>
+                <tabSpacing Value="50"/>
+                <skipInnerTabs Value="0"/>
+                <tabsUseSpacing Value="1"/>
+                <tabCutPower Value="0"/>
+                <usePen Value="0"/>
                 <scanOpt Value="mergeAll"/>
                 <bidir Value="1"/>
                 <crossHatch Value="0"/>
@@ -341,6 +461,8 @@
                 <floodFill Value="0"/>
                 <interval Value="0.1"/>
                 <angle Value="0"/>
+                <cellsPerInch Value="50"/>
+                <halftoneAngle Value="22.5"/>
             </CutSetting>
         </Entry>
         <Entry Thickness="2.0000" Desc="Schneiden">
@@ -360,7 +482,8 @@
                 <endDelay Value="0"/>
                 <throughPower Value="0"/>
                 <throughPower2 Value="0"/>
-                <enableCutThrough Value="0"/>
+                <enableCutThroughStart Value="0"/>
+                <enableCutThroughEnd Value="0"/>
                 <priority Value="0"/>
                 <frequency Value="20000"/>
                 <overrideFrequency Value="0"/>
@@ -369,10 +492,13 @@
                 <doOutput Value="0"/>
                 <hide Value="0"/>
                 <runBlower Value="1"/>
+                <autoBlower Value="0"/>
                 <blowerSpeedOverride Value="0"/>
                 <blowerSpeedPercent Value="100"/>
                 <overcut Value="0"/>
                 <rampLength Value="0"/>
+                <rampOuter Value="0"/>
+                <forceConstantPower Value="0"/>
                 <numPasses Value="1"/>
                 <zPerPass Value="0"/>
                 <perforate Value="0"/>
@@ -381,6 +507,17 @@
                 <dotMode Value="0"/>
                 <dotTime Value="1"/>
                 <dotSpacing Value="0.1"/>
+                <tabsEnabled Value="0"/>
+                <manualTabs Value="1"/>
+                <tabSize Value="0.5"/>
+                <tabCount Value="-1"/>
+                <tabCountMax Value="-1"/>
+                <limitMaxTabs Value="0"/>
+                <tabSpacing Value="50"/>
+                <skipInnerTabs Value="0"/>
+                <tabsUseSpacing Value="1"/>
+                <tabCutPower Value="0"/>
+                <usePen Value="0"/>
                 <scanOpt Value="mergeAll"/>
                 <bidir Value="1"/>
                 <crossHatch Value="0"/>
@@ -389,6 +526,8 @@
                 <floodFill Value="0"/>
                 <interval Value="0.1"/>
                 <angle Value="0"/>
+                <cellsPerInch Value="50"/>
+                <halftoneAngle Value="22.5"/>
             </CutSetting>
         </Entry>
         <Entry Thickness="3.0000" Desc="Schneiden">
@@ -408,7 +547,8 @@
                 <endDelay Value="0"/>
                 <throughPower Value="0"/>
                 <throughPower2 Value="0"/>
-                <enableCutThrough Value="0"/>
+                <enableCutThroughStart Value="0"/>
+                <enableCutThroughEnd Value="0"/>
                 <priority Value="0"/>
                 <frequency Value="20000"/>
                 <overrideFrequency Value="0"/>
@@ -417,10 +557,13 @@
                 <doOutput Value="0"/>
                 <hide Value="0"/>
                 <runBlower Value="1"/>
+                <autoBlower Value="0"/>
                 <blowerSpeedOverride Value="0"/>
                 <blowerSpeedPercent Value="100"/>
                 <overcut Value="0"/>
                 <rampLength Value="0"/>
+                <rampOuter Value="0"/>
+                <forceConstantPower Value="0"/>
                 <numPasses Value="1"/>
                 <zPerPass Value="0"/>
                 <perforate Value="0"/>
@@ -429,6 +572,17 @@
                 <dotMode Value="0"/>
                 <dotTime Value="1"/>
                 <dotSpacing Value="0.1"/>
+                <tabsEnabled Value="0"/>
+                <manualTabs Value="1"/>
+                <tabSize Value="0.5"/>
+                <tabCount Value="-1"/>
+                <tabCountMax Value="-1"/>
+                <limitMaxTabs Value="0"/>
+                <tabSpacing Value="50"/>
+                <skipInnerTabs Value="0"/>
+                <tabsUseSpacing Value="1"/>
+                <tabCutPower Value="0"/>
+                <usePen Value="0"/>
                 <scanOpt Value="mergeAll"/>
                 <bidir Value="1"/>
                 <crossHatch Value="0"/>
@@ -437,6 +591,8 @@
                 <floodFill Value="0"/>
                 <interval Value="0.1"/>
                 <angle Value="0"/>
+                <cellsPerInch Value="50"/>
+                <halftoneAngle Value="22.5"/>
             </CutSetting>
         </Entry>
         <Entry Thickness="5.0000" Desc="Schneiden">
@@ -456,7 +612,8 @@
                 <endDelay Value="0"/>
                 <throughPower Value="0"/>
                 <throughPower2 Value="0"/>
-                <enableCutThrough Value="0"/>
+                <enableCutThroughStart Value="0"/>
+                <enableCutThroughEnd Value="0"/>
                 <priority Value="0"/>
                 <frequency Value="20000"/>
                 <overrideFrequency Value="0"/>
@@ -465,10 +622,13 @@
                 <doOutput Value="1"/>
                 <hide Value="0"/>
                 <runBlower Value="1"/>
+                <autoBlower Value="0"/>
                 <blowerSpeedOverride Value="0"/>
                 <blowerSpeedPercent Value="100"/>
                 <overcut Value="0"/>
                 <rampLength Value="0"/>
+                <rampOuter Value="0"/>
+                <forceConstantPower Value="0"/>
                 <numPasses Value="1"/>
                 <zPerPass Value="0"/>
                 <perforate Value="0"/>
@@ -477,6 +637,17 @@
                 <dotMode Value="0"/>
                 <dotTime Value="1"/>
                 <dotSpacing Value="0.1"/>
+                <tabsEnabled Value="0"/>
+                <manualTabs Value="1"/>
+                <tabSize Value="0.5"/>
+                <tabCount Value="-1"/>
+                <tabCountMax Value="-1"/>
+                <limitMaxTabs Value="0"/>
+                <tabSpacing Value="50"/>
+                <skipInnerTabs Value="0"/>
+                <tabsUseSpacing Value="1"/>
+                <tabCutPower Value="0"/>
+                <usePen Value="0"/>
                 <scanOpt Value="mergeAll"/>
                 <bidir Value="1"/>
                 <crossHatch Value="0"/>
@@ -485,6 +656,8 @@
                 <floodFill Value="0"/>
                 <interval Value="0.1"/>
                 <angle Value="0"/>
+                <cellsPerInch Value="50"/>
+                <halftoneAngle Value="22.5"/>
             </CutSetting>
         </Entry>
         <Entry Thickness="6.0000" Desc="Schneiden">
@@ -504,7 +677,8 @@
                 <endDelay Value="0"/>
                 <throughPower Value="0"/>
                 <throughPower2 Value="0"/>
-                <enableCutThrough Value="0"/>
+                <enableCutThroughStart Value="0"/>
+                <enableCutThroughEnd Value="0"/>
                 <priority Value="0"/>
                 <frequency Value="20000"/>
                 <overrideFrequency Value="0"/>
@@ -513,10 +687,13 @@
                 <doOutput Value="0"/>
                 <hide Value="0"/>
                 <runBlower Value="1"/>
+                <autoBlower Value="0"/>
                 <blowerSpeedOverride Value="0"/>
                 <blowerSpeedPercent Value="100"/>
                 <overcut Value="0"/>
                 <rampLength Value="0"/>
+                <rampOuter Value="0"/>
+                <forceConstantPower Value="0"/>
                 <numPasses Value="1"/>
                 <zPerPass Value="0"/>
                 <perforate Value="0"/>
@@ -525,6 +702,17 @@
                 <dotMode Value="0"/>
                 <dotTime Value="1"/>
                 <dotSpacing Value="0.1"/>
+                <tabsEnabled Value="0"/>
+                <manualTabs Value="1"/>
+                <tabSize Value="0.5"/>
+                <tabCount Value="-1"/>
+                <tabCountMax Value="-1"/>
+                <limitMaxTabs Value="0"/>
+                <tabSpacing Value="50"/>
+                <skipInnerTabs Value="0"/>
+                <tabsUseSpacing Value="1"/>
+                <tabCutPower Value="0"/>
+                <usePen Value="0"/>
                 <scanOpt Value="mergeAll"/>
                 <bidir Value="1"/>
                 <crossHatch Value="0"/>
@@ -533,6 +721,8 @@
                 <floodFill Value="0"/>
                 <interval Value="0.1"/>
                 <angle Value="0"/>
+                <cellsPerInch Value="50"/>
+                <halftoneAngle Value="22.5"/>
             </CutSetting>
         </Entry>
         <Entry Thickness="8.0000" Desc="Schneiden">
@@ -552,7 +742,8 @@
                 <endDelay Value="0"/>
                 <throughPower Value="0"/>
                 <throughPower2 Value="0"/>
-                <enableCutThrough Value="0"/>
+                <enableCutThroughStart Value="0"/>
+                <enableCutThroughEnd Value="0"/>
                 <priority Value="0"/>
                 <frequency Value="20000"/>
                 <overrideFrequency Value="0"/>
@@ -561,10 +752,13 @@
                 <doOutput Value="0"/>
                 <hide Value="0"/>
                 <runBlower Value="1"/>
+                <autoBlower Value="0"/>
                 <blowerSpeedOverride Value="0"/>
                 <blowerSpeedPercent Value="100"/>
                 <overcut Value="0"/>
                 <rampLength Value="0"/>
+                <rampOuter Value="0"/>
+                <forceConstantPower Value="0"/>
                 <numPasses Value="1"/>
                 <zPerPass Value="0"/>
                 <perforate Value="0"/>
@@ -573,6 +767,17 @@
                 <dotMode Value="0"/>
                 <dotTime Value="1"/>
                 <dotSpacing Value="0.1"/>
+                <tabsEnabled Value="0"/>
+                <manualTabs Value="1"/>
+                <tabSize Value="0.5"/>
+                <tabCount Value="-1"/>
+                <tabCountMax Value="-1"/>
+                <limitMaxTabs Value="0"/>
+                <tabSpacing Value="50"/>
+                <skipInnerTabs Value="0"/>
+                <tabsUseSpacing Value="1"/>
+                <tabCutPower Value="0"/>
+                <usePen Value="0"/>
                 <scanOpt Value="mergeAll"/>
                 <bidir Value="1"/>
                 <crossHatch Value="0"/>
@@ -581,6 +786,8 @@
                 <floodFill Value="0"/>
                 <interval Value="0.1"/>
                 <angle Value="0"/>
+                <cellsPerInch Value="50"/>
+                <halftoneAngle Value="22.5"/>
             </CutSetting>
         </Entry>
         <Entry Thickness="10.0000" Desc="Schneiden">
@@ -600,7 +807,8 @@
                 <endDelay Value="0"/>
                 <throughPower Value="0"/>
                 <throughPower2 Value="0"/>
-                <enableCutThrough Value="0"/>
+                <enableCutThroughStart Value="0"/>
+                <enableCutThroughEnd Value="0"/>
                 <priority Value="0"/>
                 <frequency Value="20000"/>
                 <overrideFrequency Value="0"/>
@@ -609,10 +817,13 @@
                 <doOutput Value="0"/>
                 <hide Value="0"/>
                 <runBlower Value="1"/>
+                <autoBlower Value="0"/>
                 <blowerSpeedOverride Value="0"/>
                 <blowerSpeedPercent Value="100"/>
                 <overcut Value="0"/>
                 <rampLength Value="0"/>
+                <rampOuter Value="0"/>
+                <forceConstantPower Value="0"/>
                 <numPasses Value="1"/>
                 <zPerPass Value="0"/>
                 <perforate Value="0"/>
@@ -621,6 +832,17 @@
                 <dotMode Value="0"/>
                 <dotTime Value="1"/>
                 <dotSpacing Value="0.1"/>
+                <tabsEnabled Value="0"/>
+                <manualTabs Value="1"/>
+                <tabSize Value="0.5"/>
+                <tabCount Value="-1"/>
+                <tabCountMax Value="-1"/>
+                <limitMaxTabs Value="0"/>
+                <tabSpacing Value="50"/>
+                <skipInnerTabs Value="0"/>
+                <tabsUseSpacing Value="1"/>
+                <tabCutPower Value="0"/>
+                <usePen Value="0"/>
                 <scanOpt Value="mergeAll"/>
                 <bidir Value="1"/>
                 <crossHatch Value="0"/>
@@ -629,6 +851,8 @@
                 <floodFill Value="0"/>
                 <interval Value="0.1"/>
                 <angle Value="0"/>
+                <cellsPerInch Value="50"/>
+                <halftoneAngle Value="22.5"/>
             </CutSetting>
         </Entry>
         <Entry Thickness="-1.0000" Desc="Gravieren">
@@ -648,7 +872,8 @@
                 <endDelay Value="0"/>
                 <throughPower Value="0"/>
                 <throughPower2 Value="0"/>
-                <enableCutThrough Value="0"/>
+                <enableCutThroughStart Value="0"/>
+                <enableCutThroughEnd Value="0"/>
                 <priority Value="0"/>
                 <frequency Value="20000"/>
                 <overrideFrequency Value="0"/>
@@ -657,10 +882,13 @@
                 <doOutput Value="1"/>
                 <hide Value="0"/>
                 <runBlower Value="1"/>
+                <autoBlower Value="0"/>
                 <blowerSpeedOverride Value="0"/>
                 <blowerSpeedPercent Value="100"/>
                 <overcut Value="0"/>
                 <rampLength Value="0"/>
+                <rampOuter Value="0"/>
+                <forceConstantPower Value="0"/>
                 <numPasses Value="1"/>
                 <zPerPass Value="0"/>
                 <perforate Value="0"/>
@@ -669,6 +897,17 @@
                 <dotMode Value="0"/>
                 <dotTime Value="1"/>
                 <dotSpacing Value="0.1"/>
+                <tabsEnabled Value="0"/>
+                <manualTabs Value="1"/>
+                <tabSize Value="0.5"/>
+                <tabCount Value="-1"/>
+                <tabCountMax Value="-1"/>
+                <limitMaxTabs Value="0"/>
+                <tabSpacing Value="50"/>
+                <skipInnerTabs Value="0"/>
+                <tabsUseSpacing Value="1"/>
+                <tabCutPower Value="0"/>
+                <usePen Value="0"/>
                 <scanOpt Value="mergeAll"/>
                 <bidir Value="1"/>
                 <crossHatch Value="0"/>
@@ -677,6 +916,8 @@
                 <floodFill Value="0"/>
                 <interval Value="0.1"/>
                 <angle Value="0"/>
+                <cellsPerInch Value="50"/>
+                <halftoneAngle Value="22.5"/>
             </CutSetting>
         </Entry>
         <Entry Thickness="4.0000" Desc="Schneiden">
@@ -696,7 +937,8 @@
                 <endDelay Value="0"/>
                 <throughPower Value="0"/>
                 <throughPower2 Value="0"/>
-                <enableCutThrough Value="0"/>
+                <enableCutThroughStart Value="0"/>
+                <enableCutThroughEnd Value="0"/>
                 <priority Value="0"/>
                 <frequency Value="20000"/>
                 <overrideFrequency Value="0"/>
@@ -705,10 +947,13 @@
                 <doOutput Value="1"/>
                 <hide Value="0"/>
                 <runBlower Value="1"/>
+                <autoBlower Value="0"/>
                 <blowerSpeedOverride Value="0"/>
                 <blowerSpeedPercent Value="100"/>
                 <overcut Value="0"/>
                 <rampLength Value="0"/>
+                <rampOuter Value="0"/>
+                <forceConstantPower Value="0"/>
                 <numPasses Value="1"/>
                 <zPerPass Value="0"/>
                 <perforate Value="0"/>
@@ -717,6 +962,17 @@
                 <dotMode Value="0"/>
                 <dotTime Value="1"/>
                 <dotSpacing Value="0.1"/>
+                <tabsEnabled Value="0"/>
+                <manualTabs Value="1"/>
+                <tabSize Value="0.5"/>
+                <tabCount Value="-1"/>
+                <tabCountMax Value="-1"/>
+                <limitMaxTabs Value="0"/>
+                <tabSpacing Value="50"/>
+                <skipInnerTabs Value="0"/>
+                <tabsUseSpacing Value="1"/>
+                <tabCutPower Value="0"/>
+                <usePen Value="0"/>
                 <scanOpt Value="mergeAll"/>
                 <bidir Value="1"/>
                 <crossHatch Value="0"/>
@@ -725,6 +981,8 @@
                 <floodFill Value="0"/>
                 <interval Value="0.1"/>
                 <angle Value="0"/>
+                <cellsPerInch Value="50"/>
+                <halftoneAngle Value="22.5"/>
             </CutSetting>
         </Entry>
     </Material>
@@ -746,7 +1004,8 @@
                 <endDelay Value="0"/>
                 <throughPower Value="0"/>
                 <throughPower2 Value="0"/>
-                <enableCutThrough Value="0"/>
+                <enableCutThroughStart Value="0"/>
+                <enableCutThroughEnd Value="0"/>
                 <priority Value="0"/>
                 <frequency Value="20000"/>
                 <overrideFrequency Value="0"/>
@@ -755,10 +1014,13 @@
                 <doOutput Value="1"/>
                 <hide Value="0"/>
                 <runBlower Value="1"/>
+                <autoBlower Value="0"/>
                 <blowerSpeedOverride Value="0"/>
                 <blowerSpeedPercent Value="100"/>
                 <overcut Value="0"/>
                 <rampLength Value="0"/>
+                <rampOuter Value="0"/>
+                <forceConstantPower Value="0"/>
                 <numPasses Value="1"/>
                 <zPerPass Value="0"/>
                 <perforate Value="0"/>
@@ -767,6 +1029,17 @@
                 <dotMode Value="0"/>
                 <dotTime Value="1"/>
                 <dotSpacing Value="0.1"/>
+                <tabsEnabled Value="0"/>
+                <manualTabs Value="1"/>
+                <tabSize Value="0.5"/>
+                <tabCount Value="-1"/>
+                <tabCountMax Value="-1"/>
+                <limitMaxTabs Value="0"/>
+                <tabSpacing Value="50"/>
+                <skipInnerTabs Value="0"/>
+                <tabsUseSpacing Value="1"/>
+                <tabCutPower Value="0"/>
+                <usePen Value="0"/>
                 <scanOpt Value="mergeAll"/>
                 <bidir Value="1"/>
                 <crossHatch Value="0"/>
@@ -775,6 +1048,8 @@
                 <floodFill Value="0"/>
                 <interval Value="0.1"/>
                 <angle Value="0"/>
+                <cellsPerInch Value="50"/>
+                <halftoneAngle Value="22.5"/>
             </CutSetting>
         </Entry>
         <Entry Thickness="1.0000" Desc="Schneiden">
@@ -794,7 +1069,8 @@
                 <endDelay Value="0"/>
                 <throughPower Value="0"/>
                 <throughPower2 Value="0"/>
-                <enableCutThrough Value="0"/>
+                <enableCutThroughStart Value="0"/>
+                <enableCutThroughEnd Value="0"/>
                 <priority Value="0"/>
                 <frequency Value="20000"/>
                 <overrideFrequency Value="0"/>
@@ -803,10 +1079,13 @@
                 <doOutput Value="0"/>
                 <hide Value="0"/>
                 <runBlower Value="1"/>
+                <autoBlower Value="0"/>
                 <blowerSpeedOverride Value="0"/>
                 <blowerSpeedPercent Value="100"/>
                 <overcut Value="0"/>
                 <rampLength Value="0"/>
+                <rampOuter Value="0"/>
+                <forceConstantPower Value="0"/>
                 <numPasses Value="1"/>
                 <zPerPass Value="0"/>
                 <perforate Value="0"/>
@@ -815,6 +1094,17 @@
                 <dotMode Value="0"/>
                 <dotTime Value="1"/>
                 <dotSpacing Value="0.1"/>
+                <tabsEnabled Value="0"/>
+                <manualTabs Value="1"/>
+                <tabSize Value="0.5"/>
+                <tabCount Value="-1"/>
+                <tabCountMax Value="-1"/>
+                <limitMaxTabs Value="0"/>
+                <tabSpacing Value="50"/>
+                <skipInnerTabs Value="0"/>
+                <tabsUseSpacing Value="1"/>
+                <tabCutPower Value="0"/>
+                <usePen Value="0"/>
                 <scanOpt Value="mergeAll"/>
                 <bidir Value="1"/>
                 <crossHatch Value="0"/>
@@ -823,6 +1113,8 @@
                 <floodFill Value="0"/>
                 <interval Value="0.1"/>
                 <angle Value="0"/>
+                <cellsPerInch Value="50"/>
+                <halftoneAngle Value="22.5"/>
             </CutSetting>
         </Entry>
         <Entry Thickness="2.0000" Desc="Schneiden">
@@ -842,7 +1134,8 @@
                 <endDelay Value="0"/>
                 <throughPower Value="0"/>
                 <throughPower2 Value="0"/>
-                <enableCutThrough Value="0"/>
+                <enableCutThroughStart Value="0"/>
+                <enableCutThroughEnd Value="0"/>
                 <priority Value="0"/>
                 <frequency Value="20000"/>
                 <overrideFrequency Value="0"/>
@@ -851,10 +1144,13 @@
                 <doOutput Value="0"/>
                 <hide Value="0"/>
                 <runBlower Value="1"/>
+                <autoBlower Value="0"/>
                 <blowerSpeedOverride Value="0"/>
                 <blowerSpeedPercent Value="100"/>
                 <overcut Value="0"/>
                 <rampLength Value="0"/>
+                <rampOuter Value="0"/>
+                <forceConstantPower Value="0"/>
                 <numPasses Value="1"/>
                 <zPerPass Value="0"/>
                 <perforate Value="0"/>
@@ -863,6 +1159,17 @@
                 <dotMode Value="0"/>
                 <dotTime Value="1"/>
                 <dotSpacing Value="0.1"/>
+                <tabsEnabled Value="0"/>
+                <manualTabs Value="1"/>
+                <tabSize Value="0.5"/>
+                <tabCount Value="-1"/>
+                <tabCountMax Value="-1"/>
+                <limitMaxTabs Value="0"/>
+                <tabSpacing Value="50"/>
+                <skipInnerTabs Value="0"/>
+                <tabsUseSpacing Value="1"/>
+                <tabCutPower Value="0"/>
+                <usePen Value="0"/>
                 <scanOpt Value="mergeAll"/>
                 <bidir Value="1"/>
                 <crossHatch Value="0"/>
@@ -871,6 +1178,8 @@
                 <floodFill Value="0"/>
                 <interval Value="0.1"/>
                 <angle Value="0"/>
+                <cellsPerInch Value="50"/>
+                <halftoneAngle Value="22.5"/>
             </CutSetting>
         </Entry>
         <Entry Thickness="3.0000" Desc="Schneiden">
@@ -890,7 +1199,8 @@
                 <endDelay Value="0"/>
                 <throughPower Value="0"/>
                 <throughPower2 Value="0"/>
-                <enableCutThrough Value="0"/>
+                <enableCutThroughStart Value="0"/>
+                <enableCutThroughEnd Value="0"/>
                 <priority Value="0"/>
                 <frequency Value="20000"/>
                 <overrideFrequency Value="0"/>
@@ -899,10 +1209,13 @@
                 <doOutput Value="0"/>
                 <hide Value="0"/>
                 <runBlower Value="1"/>
+                <autoBlower Value="0"/>
                 <blowerSpeedOverride Value="0"/>
                 <blowerSpeedPercent Value="100"/>
                 <overcut Value="0"/>
                 <rampLength Value="0"/>
+                <rampOuter Value="0"/>
+                <forceConstantPower Value="0"/>
                 <numPasses Value="1"/>
                 <zPerPass Value="0"/>
                 <perforate Value="0"/>
@@ -911,6 +1224,17 @@
                 <dotMode Value="0"/>
                 <dotTime Value="1"/>
                 <dotSpacing Value="0.1"/>
+                <tabsEnabled Value="0"/>
+                <manualTabs Value="1"/>
+                <tabSize Value="0.5"/>
+                <tabCount Value="-1"/>
+                <tabCountMax Value="-1"/>
+                <limitMaxTabs Value="0"/>
+                <tabSpacing Value="50"/>
+                <skipInnerTabs Value="0"/>
+                <tabsUseSpacing Value="1"/>
+                <tabCutPower Value="0"/>
+                <usePen Value="0"/>
                 <scanOpt Value="mergeAll"/>
                 <bidir Value="1"/>
                 <crossHatch Value="0"/>
@@ -919,6 +1243,8 @@
                 <floodFill Value="0"/>
                 <interval Value="0.1"/>
                 <angle Value="0"/>
+                <cellsPerInch Value="50"/>
+                <halftoneAngle Value="22.5"/>
             </CutSetting>
         </Entry>
         <Entry Thickness="5.0000" Desc="Schneiden">
@@ -938,7 +1264,8 @@
                 <endDelay Value="0"/>
                 <throughPower Value="0"/>
                 <throughPower2 Value="0"/>
-                <enableCutThrough Value="0"/>
+                <enableCutThroughStart Value="0"/>
+                <enableCutThroughEnd Value="0"/>
                 <priority Value="0"/>
                 <frequency Value="20000"/>
                 <overrideFrequency Value="0"/>
@@ -947,10 +1274,13 @@
                 <doOutput Value="1"/>
                 <hide Value="0"/>
                 <runBlower Value="1"/>
+                <autoBlower Value="0"/>
                 <blowerSpeedOverride Value="0"/>
                 <blowerSpeedPercent Value="100"/>
                 <overcut Value="0"/>
                 <rampLength Value="0"/>
+                <rampOuter Value="0"/>
+                <forceConstantPower Value="0"/>
                 <numPasses Value="1"/>
                 <zPerPass Value="0"/>
                 <perforate Value="0"/>
@@ -959,6 +1289,17 @@
                 <dotMode Value="0"/>
                 <dotTime Value="1"/>
                 <dotSpacing Value="0.1"/>
+                <tabsEnabled Value="0"/>
+                <manualTabs Value="1"/>
+                <tabSize Value="0.5"/>
+                <tabCount Value="-1"/>
+                <tabCountMax Value="-1"/>
+                <limitMaxTabs Value="0"/>
+                <tabSpacing Value="50"/>
+                <skipInnerTabs Value="0"/>
+                <tabsUseSpacing Value="1"/>
+                <tabCutPower Value="0"/>
+                <usePen Value="0"/>
                 <scanOpt Value="mergeAll"/>
                 <bidir Value="1"/>
                 <crossHatch Value="0"/>
@@ -967,6 +1308,8 @@
                 <floodFill Value="0"/>
                 <interval Value="0.1"/>
                 <angle Value="0"/>
+                <cellsPerInch Value="50"/>
+                <halftoneAngle Value="22.5"/>
             </CutSetting>
         </Entry>
         <Entry Thickness="6.0000" Desc="Schneiden">
@@ -986,7 +1329,8 @@
                 <endDelay Value="0"/>
                 <throughPower Value="0"/>
                 <throughPower2 Value="0"/>
-                <enableCutThrough Value="0"/>
+                <enableCutThroughStart Value="0"/>
+                <enableCutThroughEnd Value="0"/>
                 <priority Value="0"/>
                 <frequency Value="20000"/>
                 <overrideFrequency Value="0"/>
@@ -995,10 +1339,13 @@
                 <doOutput Value="0"/>
                 <hide Value="0"/>
                 <runBlower Value="1"/>
+                <autoBlower Value="0"/>
                 <blowerSpeedOverride Value="0"/>
                 <blowerSpeedPercent Value="100"/>
                 <overcut Value="0"/>
                 <rampLength Value="0"/>
+                <rampOuter Value="0"/>
+                <forceConstantPower Value="0"/>
                 <numPasses Value="1"/>
                 <zPerPass Value="0"/>
                 <perforate Value="0"/>
@@ -1007,6 +1354,17 @@
                 <dotMode Value="0"/>
                 <dotTime Value="1"/>
                 <dotSpacing Value="0.1"/>
+                <tabsEnabled Value="0"/>
+                <manualTabs Value="1"/>
+                <tabSize Value="0.5"/>
+                <tabCount Value="-1"/>
+                <tabCountMax Value="-1"/>
+                <limitMaxTabs Value="0"/>
+                <tabSpacing Value="50"/>
+                <skipInnerTabs Value="0"/>
+                <tabsUseSpacing Value="1"/>
+                <tabCutPower Value="0"/>
+                <usePen Value="0"/>
                 <scanOpt Value="mergeAll"/>
                 <bidir Value="1"/>
                 <crossHatch Value="0"/>
@@ -1015,6 +1373,8 @@
                 <floodFill Value="0"/>
                 <interval Value="0.1"/>
                 <angle Value="0"/>
+                <cellsPerInch Value="50"/>
+                <halftoneAngle Value="22.5"/>
             </CutSetting>
         </Entry>
         <Entry Thickness="8.0000" Desc="Schneiden">
@@ -1034,7 +1394,8 @@
                 <endDelay Value="0"/>
                 <throughPower Value="0"/>
                 <throughPower2 Value="0"/>
-                <enableCutThrough Value="0"/>
+                <enableCutThroughStart Value="0"/>
+                <enableCutThroughEnd Value="0"/>
                 <priority Value="0"/>
                 <frequency Value="20000"/>
                 <overrideFrequency Value="0"/>
@@ -1043,10 +1404,13 @@
                 <doOutput Value="0"/>
                 <hide Value="0"/>
                 <runBlower Value="1"/>
+                <autoBlower Value="0"/>
                 <blowerSpeedOverride Value="0"/>
                 <blowerSpeedPercent Value="100"/>
                 <overcut Value="0"/>
                 <rampLength Value="0"/>
+                <rampOuter Value="0"/>
+                <forceConstantPower Value="0"/>
                 <numPasses Value="1"/>
                 <zPerPass Value="0"/>
                 <perforate Value="0"/>
@@ -1055,6 +1419,17 @@
                 <dotMode Value="0"/>
                 <dotTime Value="1"/>
                 <dotSpacing Value="0.1"/>
+                <tabsEnabled Value="0"/>
+                <manualTabs Value="1"/>
+                <tabSize Value="0.5"/>
+                <tabCount Value="-1"/>
+                <tabCountMax Value="-1"/>
+                <limitMaxTabs Value="0"/>
+                <tabSpacing Value="50"/>
+                <skipInnerTabs Value="0"/>
+                <tabsUseSpacing Value="1"/>
+                <tabCutPower Value="0"/>
+                <usePen Value="0"/>
                 <scanOpt Value="mergeAll"/>
                 <bidir Value="1"/>
                 <crossHatch Value="0"/>
@@ -1063,6 +1438,8 @@
                 <floodFill Value="0"/>
                 <interval Value="0.1"/>
                 <angle Value="0"/>
+                <cellsPerInch Value="50"/>
+                <halftoneAngle Value="22.5"/>
             </CutSetting>
         </Entry>
         <Entry Thickness="10.0000" Desc="Schneiden">
@@ -1082,7 +1459,8 @@
                 <endDelay Value="0"/>
                 <throughPower Value="0"/>
                 <throughPower2 Value="0"/>
-                <enableCutThrough Value="0"/>
+                <enableCutThroughStart Value="0"/>
+                <enableCutThroughEnd Value="0"/>
                 <priority Value="0"/>
                 <frequency Value="20000"/>
                 <overrideFrequency Value="0"/>
@@ -1091,10 +1469,13 @@
                 <doOutput Value="0"/>
                 <hide Value="0"/>
                 <runBlower Value="1"/>
+                <autoBlower Value="0"/>
                 <blowerSpeedOverride Value="0"/>
                 <blowerSpeedPercent Value="100"/>
                 <overcut Value="0"/>
                 <rampLength Value="0"/>
+                <rampOuter Value="0"/>
+                <forceConstantPower Value="0"/>
                 <numPasses Value="1"/>
                 <zPerPass Value="0"/>
                 <perforate Value="0"/>
@@ -1103,6 +1484,17 @@
                 <dotMode Value="0"/>
                 <dotTime Value="1"/>
                 <dotSpacing Value="0.1"/>
+                <tabsEnabled Value="0"/>
+                <manualTabs Value="1"/>
+                <tabSize Value="0.5"/>
+                <tabCount Value="-1"/>
+                <tabCountMax Value="-1"/>
+                <limitMaxTabs Value="0"/>
+                <tabSpacing Value="50"/>
+                <skipInnerTabs Value="0"/>
+                <tabsUseSpacing Value="1"/>
+                <tabCutPower Value="0"/>
+                <usePen Value="0"/>
                 <scanOpt Value="mergeAll"/>
                 <bidir Value="1"/>
                 <crossHatch Value="0"/>
@@ -1111,6 +1503,8 @@
                 <floodFill Value="0"/>
                 <interval Value="0.1"/>
                 <angle Value="0"/>
+                <cellsPerInch Value="50"/>
+                <halftoneAngle Value="22.5"/>
             </CutSetting>
         </Entry>
     </Material>
