@@ -232,7 +232,7 @@
                 <rampLength Value="0"/>
                 <rampOuter Value="0"/>
                 <forceConstantPower Value="0"/>
-                <numPasses Value="5"/>
+                <numPasses Value="2"/>
                 <zPerPass Value="0"/>
                 <perforate Value="0"/>
                 <perfLen Value="0.1"/>
@@ -243,8 +243,8 @@
                 <tabsEnabled Value="0"/>
                 <manualTabs Value="1"/>
                 <tabSize Value="0.5"/>
-                <tabCount Value="-1"/>
-                <tabCountMax Value="-1"/>
+                <tabCount Value="1"/>
+                <tabCountMax Value="1"/>
                 <limitMaxTabs Value="0"/>
                 <tabSpacing Value="50"/>
                 <skipInnerTabs Value="0"/>
